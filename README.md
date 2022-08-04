@@ -1,4 +1,4 @@
-- 👋oi
+- 👋oi,sou o yago
 - 👀em aprender
 - 🌱 atualmente estou aprendendo a progamar jogos
 - 💞️procuro colaborar com github
