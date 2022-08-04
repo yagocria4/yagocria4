@@ -1,0 +1,5 @@
+- 👋oi
+- 👀em aprender
+- 🌱 atualmente estou aprendendo a progamar jogos
+- 💞️procuro colaborar com github
+- 📫 me chama de pretinho kkk
